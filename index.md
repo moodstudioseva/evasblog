@@ -1,5 +1,5 @@
 ---
-title: "Evas Blog"
+title: "Herzlich Willkommen ✌🏼"
 ---
 
-Hallo und herzlich willkommen, schön dass du hierher gefunden hast!
+Schön, dass du hierher gefunden hast!
