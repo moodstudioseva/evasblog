@@ -2,4 +2,4 @@
 title: "Evas Blog"
 ---
 
-Herzlich Willkommen! Hier gibt es vielleicht irgendwann mal mehr Content.
+Hallo und herzlich willkommen, schön dass du hierher gefunden hast!
